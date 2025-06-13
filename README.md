@@ -116,7 +116,7 @@ Este projeto é para o desenvolvimento de uma rede social simples em que um usu�
 
 02 - clone o projeto para a sua  máquina
 
->    git clone https://github.com/tiagoriosrocha/rede-social-laravel.git
+>    git clone 
 
 03 - acesse a pasta do projeto
 
